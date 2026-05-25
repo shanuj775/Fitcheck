@@ -1,6 +1,7 @@
 import { useState } from "react"
 
-const BACKEND_URL = ""
+// Use environment variable for backend URL, fallback to empty string for local dev
+const BACKEND_URL = import.meta.env.VITE_API_URL || ""
 
 function statusStyle(status) {
   if (status === "Verified") return "status verified"
