@@ -1,0 +1,17 @@
+[
+  {
+    "claim": "OpenAI reached 200 million users in 2025",
+    "evidence": "OpenAI reported reaching 200 million users in public communications in 2025.",
+    "source": "local"
+  },
+  {
+    "claim": "India AI market is worth $17 billion",
+    "evidence": "Market analysis reports estimated the India AI market size at approximately $17 billion in prior studies.",
+    "source": "local"
+  },
+  {
+    "claim": "Test claim: AI is advancing rapidly",
+    "evidence": "AI models are improving every year",
+    "source": "test"
+  }
+]
